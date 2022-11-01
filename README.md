@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/chihengchou/d5babe51-f14c-44dc-96ca-80cfd9c4a3b7/95c8fce6-87d2-48b4-b8d8-113a9920481d/_apis/work/boardbadge/f5c1752e-d53e-4cee-8383-06dcec418c40)](https://dev.azure.com/chihengchou/d5babe51-f14c-44dc-96ca-80cfd9c4a3b7/_boards/board/t/95c8fce6-87d2-48b4-b8d8-113a9920481d/Microsoft.RequirementCategory)
 
 
 <img src="assets/images/apim-logo-transparent.png">
